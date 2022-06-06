@@ -4,7 +4,7 @@
  *  * main - Entry point
  *   * printf alternative
  *    * Return: Always 0 (Success)
- *     */
+ *     **/
 
 int main(void)
 {
