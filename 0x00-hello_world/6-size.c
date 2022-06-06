@@ -1,9 +1,9 @@
-nclude <stdio.h>
+#include <stdio.h>
 /**
  *  * main - Entry point
  *   * print size of variables
  *    * Return: Always 0 (Success)
- *     */
+ *     **/
 int main(void)
 {
 	printf("Size of a char: %ld byte(s)\n", sizeof(char));
